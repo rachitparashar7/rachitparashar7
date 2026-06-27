@@ -15,15 +15,11 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **c**
-
-- 📫 How to reach me: **
-
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/s.a.t.y.a.m.-.s.i.n.g.h" target="blank">
+  <a href="https://www.instagram.com/rachit_jr_10/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.a.t.y.a.m.-.s.i.n.g.h" height="30" width="40" />
   </a>
 </p>
